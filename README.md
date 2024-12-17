@@ -3,7 +3,7 @@ I am a grade 9 student that attend the school Saint Mother Teresa Highschool in 
 
 <h2>✍ Programming Languages</h2>
 
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=TypeScript&logoColor=white"></a>
+<a href="https://github.com/maryam-ergen?tab=repositories"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=TypeScript&logoColor=white"></a>
 
 <h2>💻 Operating Systems</h2>
 <a href="https://linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white" alt="Linux"></a>
